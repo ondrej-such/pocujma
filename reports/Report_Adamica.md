@@ -1,8 +1,8 @@
 ## Obsah
-- [Právny Rámec pre Nahrávanie Rádiového Vysielania](###Právny-Rámec-pre-Nahrávanie-Rádiového-Vysielania)
-- [Technická Realizácia Nahrávania](###Technická-Realizácia-Nahrávania)
-- [Prieskum Veľkých ASR Modelov](###Prieskum-Veľkých-ASR-Modelov)
-- [Tvorba Trénovacej Množiny pre Detekciu Kľúčových Slov (KWS)](###Tvorba-Trénovacej-Množiny-pre-Detekciu-Kľúčových-Slov-(KWS))
+- [Právny Rámec pre Nahrávanie Rádiového Vysielania](#Právny-Rámec-pre-Nahrávanie-Rádiového-Vysielania)
+- [Technická Realizácia Nahrávania](#Technická-Realizácia-Nahrávania)
+- [Prieskum Veľkých ASR Modelov](#Prieskum-Veľkých-ASR-Modelov)
+- [Tvorba Trénovacej Množiny pre Detekciu Kľúčových Slov (KWS)](#Tvorba-Trénovacej-Množiny-pre-Detekciu-Kľúčových-Slov-(KWS))
 
 ***
 
@@ -129,5 +129,6 @@ Na umelé zvýšenie variability dát a robustnosti modelu sa používajú nasle
 -   **Simulácia ozveny (Reverb):** Napodobnenie akustiky rôznych miestností.
     
 -   **Zmena rýchlosti a výšky hlasu:** Simulácia variability medzi hovorcami.
+
 
 ***
